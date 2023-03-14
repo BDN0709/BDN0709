@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @BDN0709
-- 👀 I’m interested in developing logic of high-loaded systems.
 - 🌱 I’m currently learning C++, C# and Java.
-- 💞️ I’m looking to collaborate on any Desktop application / Unity or UE4-based game / business logic of a difficult programm.
 - 📫 You can DM me on Instagram : dj_bubblik or in Telegram @DJ_BuBBliK
